@@ -1,6 +1,6 @@
 # 提问的艺术
 
-**获得更好的阅读体验，请访问[GHR's Blog：提问的艺术](https://njughr.github.io/2022/08/03/askingart/)**
+**获得更好的阅读体验，请访问[GHR's Blog：提问的艺术](https://njughr.github.io/2022/08/03/askingart/)**。有些Hexo Page支持的Markdown语法，GitHub并不支持。
 
 一个典型的错误提问如下：
 
