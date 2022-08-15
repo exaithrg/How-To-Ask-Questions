@@ -8,6 +8,21 @@
 
 **A**：计算机永远是对的。
 
+## 提问模板
+
+```
+我在xxx的时候遇到了xxx的错误. 这个错误可以通过以下步骤重现: (描述具体的现象)
+1. 我的系统版本是xxx, 相关的工具版本是xxx
+2. 我做了xxx (必要的时候贴个图)
+3. 然后xxx (必要的时候贴个图)
+...
+为了排查这个错误, 我进行了以下尝试: (说明我很希望可以解决问题, 真的没办法才提问的)
+1. 我做了xxx, 出现了xxx的结果 (必要的时候贴个图)
+2. 我还做了xxx, 出现了xxx的结果 (必要的时候贴个图)
+...
+最后问题还没有解决, 请问我还需要做哪些事情?
+```
+
 ## 提问之前
 
 **与其学会提问，不如说是学会如何不提问。**
@@ -315,4 +330,4 @@ https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways
 
 [MIT Writing Code](http://integrity.mit.edu/handbook/writing-code)
 
-感谢[余子濠博士](https://github.com/sashimi-yzh)给我指了一条明路。
+感谢[余子濠博士](https://github.com/sashimi-yzh)
