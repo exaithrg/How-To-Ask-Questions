@@ -315,6 +315,7 @@ https://github.com/tangx/Stop-Ask-Questions-The-Stupid-Ways
 # 参考资料
 
 **本文是我对以下项目的阅读笔记**，大量的原话均出自下面这些项目文档。
+[一生一芯官方文档：如何科学地提问](https://ysyx.oscc.cc/docs/prestudy/0.1.html)
 
 [ryanhanwu](https://github.com/ryanhanwu)/**[How-To-Ask-Questions-The-Smart-Way](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way)**
 
